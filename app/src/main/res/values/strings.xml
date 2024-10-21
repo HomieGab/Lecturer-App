@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Your App Name</string>
+    <string name="attendance_feedback_system">Attendance and Feedback System</string>
+    <string name="teacher_label">Teacher</string>
+    <string name="start_class">Start Class</string>
+    <string name="wifi_off">WiFi OFF</string>
+    <string name="turn_on_wifi">Turn on WiFi</string>
+    <string name="permissions_required">Permissions Required</string>
+    <string name="permissions_description">This app requires the following permissions to function correctly:</string>
+    <string name="permissions_list">- Access WiFi State\n- Change WiFi State\n- Internet\n- Access Fine Location</string>
+    <string name="grant_permissions">Grant Permissions</string>
+    <string name="class_network_label">Class Network:</string>
+    <string name="network_password_label">Network Password:</string>
+    <string name="attendees_label">Attendees</string>
+    <string name="student_chat_label">Student Chat</string>
+    <string name="end_class">End Class</string>
+    <string name="class_network">Class Network: %1$s</string>
+    <string name="network_password">Network Password: %1$s</string>
+    <string name="type_a_message">Type a message</string>
+    <string name="send">Send</string>
+    <string name="attendee_name">Attendee Name</string>
+</resources>
